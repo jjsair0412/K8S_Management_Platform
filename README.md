@@ -2,7 +2,6 @@
 Kubernetes management platform using that Kubernetes client library
 
 ## ENV
-||||
 |--|--|--|
 |명칭|Version|비고|
 |JAVA|||
