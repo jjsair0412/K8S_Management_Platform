@@ -38,7 +38,7 @@ Kubernetes management platform using that Kubernetes client library
 |Spring Cloud Gateway|[SCG_GOAL]()|-|GOAL 제작중|
 |API Client|[api_client]()|-|GOAL 제작중|
 |Kafka Cluster|[Kafka_Cluster_GOAL](./Kafka_Cluster/README.md/#goal)|X||
-|Kubernetes Cluster|[Kubernetes_Cluster_GOAL](./Kubernetes_Cluster/README/#goal)|X||
+|Kubernetes Cluster|[Kubernetes_Cluster_GOAL](./Kubernetes_Cluster/README.md/#goal)|X||
 
 ## **Architecture**
 
