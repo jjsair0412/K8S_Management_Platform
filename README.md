@@ -1,7 +1,8 @@
 # K8S_API_PROJECT
 Kubernetes management platform using that Kubernetes client library
-- **The project is temporarily on hold as it needs some Kafka-related architectural modifications..**
-- **I will restart this project as soon as posible..**
+
+#### **This project is temporarily put on hold because it looks like it will require some Kafka-related architectural modifications then study Kafka..**
+#### **I will restart this project as soon as posible..**
 
 ## **Envirement**
 ||||
